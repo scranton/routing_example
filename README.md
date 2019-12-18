@@ -4,6 +4,7 @@
 
 ```shell
 ./start_cluster.sh
+./install_gloo.sh
 ./run_demo.sh
 ```
 
@@ -11,5 +12,6 @@
 
 ```shell
 ./cleanup_demo.sh
+./uninstall_gloo.sh
 ./stop_cluster.sh
 ```
